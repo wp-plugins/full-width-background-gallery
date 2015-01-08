@@ -1,5 +1,5 @@
 === Full width Background Gallery ===
-Contributors: rahulbrilliant2004, tikendramaitry, Nishant Jain
+Contributors: rahulbrilliant2004, tikendramaitry
 Donate link: http://www.wpfruits.com
 Tags: Youtube background video, full with streched background, full width background slider, full width slider, full width background gallery
 Requires at least: 3.0
